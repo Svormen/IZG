@@ -1,0 +1,2 @@
+# IZG
+Základy počítačovej grafiky
